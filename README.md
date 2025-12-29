@@ -57,8 +57,7 @@ MCHC	32–36 g/dL
 git clone https://github.com/mohittharu/Sickle_Cell_Prediction.git
 cd Sickle_Cell_Prediction
 
-
-☁️ Deployment on Hugging Face (Process)
+###☁️ Deployment on Hugging Face (Process)
 
 Create a Hugging Face account
 
