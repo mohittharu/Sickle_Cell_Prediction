@@ -1,8 +1,9 @@
 # 🩸 Sickle Cell Prediction System
 
 An **AI-powered medical diagnostic assistant** that predicts the likelihood of **Sickle Cell Disease** using patient blood parameters.
-
-![Sickle Cell Prediction UI](![alt text](image-1.png))
+=======
+![Sickle Cell Prediction UI]![alt text](image.png)
+>>>>>>> 3180df471bbe7d58a8d1a6555b56a627b5879a75
 
 ---
 
@@ -77,4 +78,8 @@ requirements.txt
 
 Model files (.joblib)
 
+<<<<<<< HEAD
 App auto-builds and deploys 🎉
+=======
+App auto-builds and deploys 🎉
+>>>>>>> 3180df471bbe7d58a8d1a6555b56a627b5879a75
