@@ -3,7 +3,6 @@
 
 An **AI-powered medical diagnostic assistant** that predicts the likelihood of **Sickle Cell Disease** using patient blood parameters.
 
-![Sickle Cell Prediction UI](./34a118cd-3fd8-497c-ba99-193772830b3a.png)
 ![alt text](image.png)
 ---
 
