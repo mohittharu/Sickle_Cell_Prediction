@@ -57,7 +57,9 @@ MCHC	32–36 g/dL
 git clone https://github.com/mohittharu/Sickle_Cell_Prediction.git
 cd Sickle_Cell_Prediction
 
-###☁️ Deployment on Hugging Face (Process)
+
+
+☁️ Deployment on Hugging Face (Process)
 
 Create a Hugging Face account
 
@@ -77,8 +79,4 @@ requirements.txt
 
 Model files (.joblib)
 
-<<<<<<< HEAD
-App auto-builds and deploys 🎉
-=======
-App auto-builds and deploys 🎉
->>>>>>> 3180df471bbe7d58a8d1a6555b56a627b5879a75
+
