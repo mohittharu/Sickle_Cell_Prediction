@@ -1,17 +1,25 @@
-
 # 🩸 Sickle Cell Prediction System
 
 An **AI-powered medical diagnostic assistant** that predicts the likelihood of **Sickle Cell Disease** using patient blood parameters.
 
-![alt text](image.png)
+![Sickle Cell Prediction UI](![alt text](image-1.png))
+
+---
+
+## 🌐 Live Deployment (Hugging Face)
+🚀 **Try the app here:**  
+👉 https://huggingface.co/spaces/tharumohit/Sickle_Cell_Prediction
+
+The application is deployed using **Hugging Face Spaces** and is publicly accessible.
+
 ---
 
 ## 🚀 Features
 - 🔍 Single & multiple patient prediction modes  
 - 🧠 Machine Learning model (Random Forest)  
-- 📊 Uses key blood parameters (Hemoglobin, MCH, MCHC, MCV)  
-- 🌙 Clean, modern dark-themed UI  
-- 🐳 Docker support for easy deployment  
+- 📊 Uses key blood parameters  
+- 🌙 Modern dark-themed UI  
+- ☁️ Cloud deployed on Hugging Face  
 
 ---
 
@@ -20,16 +28,14 @@ An **AI-powered medical diagnostic assistant** that predicts the likelihood of *
 - Hemoglobin (g/dL)  
 - MCH (pg)  
 - MCHC (g/dL)  
-- MCV (fL)
-  
+- MCV (fL)  
 
- ##For input info 
 ✅ Normal Reference Ranges
 Feature	Normal Range (Adult Male & Female)
 Hemoglobin (Hb)	Male: 13.8–17.2 g/dL • Female: 12.1–15.1 g/dL
 MCV	80–100 fL
 MCH	27–33 pg
-MCHC	32–36 g/dL  
+MCHC	32–36 g/dL
 
 ---
 
@@ -37,13 +43,38 @@ MCHC	32–36 g/dL
 - Python  
 - Scikit-learn  
 - Pandas, NumPy  
-- Streamlit (UI)  
+- Streamlit  
 - Docker  
+- Hugging Face Spaces  
 
 ---
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+## ▶️ Run Locally
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/mohittharu/Sickle_Cell_Prediction.git
+cd Sickle_Cell_Prediction
+
+
+☁️ Deployment on Hugging Face (Process)
+
+Create a Hugging Face account
+
+Create a new Space
+
+Select:
+
+SDK: Streamlit
+
+Hardware: CPU
+
+Upload:
+
+main.py
+
+requirements.txt
+
+Model files (.joblib)
+
+App auto-builds and deploys 🎉
