@@ -1,4 +1,4 @@
-# Sickle_Cell_Prediction
+
 # 🩸 Sickle Cell Prediction System
 
 An **AI-powered medical diagnostic assistant** that predicts the likelihood of **Sickle Cell Disease** using patient blood parameters.
@@ -20,7 +20,14 @@ An **AI-powered medical diagnostic assistant** that predicts the likelihood of *
 - Hemoglobin (g/dL)  
 - MCH (pg)  
 - MCHC (g/dL)  
-- MCV (fL)  
+- MCV (fL)
+  ##For input info 
+✅ Normal Reference Ranges
+Feature	Normal Range (Adult Male & Female)
+Hemoglobin (Hb)	Male: 13.8–17.2 g/dL • Female: 12.1–15.1 g/dL
+MCV	80–100 fL
+MCH	27–33 pg
+MCHC	32–36 g/dL  
 
 ---
 
