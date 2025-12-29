@@ -21,7 +21,9 @@ An **AI-powered medical diagnostic assistant** that predicts the likelihood of *
 - MCH (pg)  
 - MCHC (g/dL)  
 - MCV (fL)
-  ##For input info 
+- 
+
+ ##For input info 
 ✅ Normal Reference Ranges
 Feature	Normal Range (Adult Male & Female)
 Hemoglobin (Hb)	Male: 13.8–17.2 g/dL • Female: 12.1–15.1 g/dL
